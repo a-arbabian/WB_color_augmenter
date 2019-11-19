@@ -2,6 +2,8 @@
 
 #### This is a PyTorch wrapper for the repository: https://github.com/mahmoudnafifi/WB_color_augmenter
 
+See example.ipynb for a simple tutorial.
+
 
 #### MIT License
 

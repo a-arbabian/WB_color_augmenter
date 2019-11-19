@@ -3,7 +3,7 @@
 #### This is a PyTorch wrapper for the repository: https://github.com/mahmoudnafifi/WB_color_augmenter
 
 See example.ipynb for a simple tutorial.
-
+Put the WB_Augmenter folder in your utils directory and import the WB_Augmenter.py module. 
 
 #### MIT License
 
